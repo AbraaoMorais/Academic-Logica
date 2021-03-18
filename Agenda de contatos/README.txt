@@ -6,5 +6,5 @@ Autor: Abraão Morais
 Arquivos disponíveis :
 - Pseudocódigo .Por (Portugol)
 
-Algoritmo desenvolvido com intuito de aprendizado acadêmico
-Disciplina: Lógica de Programação
+Algoritmo desenvolvido com intuito de aprendizado acadêmico.
+Disciplina: Lógica de Programação.
