@@ -1,5 +1,5 @@
 //Função do Algorítimo: Calcular e exibir uma tabuada de multiplicação
-//AUTOR: Abraão Morais Santos
+//AUTOR: Abraão Morais Santos;
 
 programa
 {
