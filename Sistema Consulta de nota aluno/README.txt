@@ -10,4 +10,4 @@ Arquivos disponíveis :
 
 
 Algoritmo desenvolvido com intuito de aprendizado acadêmico
-Disciplina: Lógica de Programação
+Disciplina: Lógica de Programação.
